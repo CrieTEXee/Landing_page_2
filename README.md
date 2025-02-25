@@ -1,1 +1,1 @@
-# Landing_page_2
+This is the 2nd attempt at a landing page - lets try to implament a more personal style to it while focusing on asthetics we do know to help with implementation of Javascript

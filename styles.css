@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header{
+    background-color:bisque;
+    text-align: center;
+}
+
+.page{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.select {
+    text-align: center;
+    background-color: antiquewhite;
+    color: blueviolet;
+    word-spacing: 30px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    font-size: 25px;
+}
+
+li{
+    display: inline-block
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    background-color: bisque;
+}
